@@ -1,0 +1,15 @@
+:root{
+    --main-color:#02B3E4;
+    --second-color:#EFEFEF;
+    --third-color:#666666;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border-radius: 5px;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}

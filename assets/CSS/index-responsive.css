@@ -1,0 +1,20 @@
+@media  (max-width:800px) {
+    .container{
+        grid-auto-flow: row;
+        height: 100%;
+    }
+
+    section P{
+        text-align: center;
+    }
+
+    section .posts{
+        flex-direction: column;
+    }
+
+    section .post{
+        width: 80%;
+        margin-bottom: 20px;
+        margin: 20px auto;
+    }
+}
